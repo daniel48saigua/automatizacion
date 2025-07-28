@@ -5,4 +5,5 @@ Todo referente a automatización en Power Automate.
 * Uso de Sharepoint
 * Uso de Teams
 * Uso de List Sharepoint
+* Formularios Sharepoint
 * Creación de PDF a través de aplicaciones.
